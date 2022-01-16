@@ -59,14 +59,6 @@ def main():
             print("Opreation Canceled Successfully! ")        
             
     
-speak(f"Welocome {user}")
+speak(f"Welcome {user}")
 listener("Reboot or Poweroff")
 main()
-
-# %%
-
-
-# %%
-name
-
-
